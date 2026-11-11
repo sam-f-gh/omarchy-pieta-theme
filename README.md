@@ -4,14 +4,20 @@ A dark, sculptural chiaroscuro theme for [Omarchy](https://omarchy.org/) inspire
 
 Polished Carrara marble and obsidian shadows punctuated by a single, poignant crimson accent drawn from the sacred wounds.
 
-![Pieta Preview](preview.png)
+![Pieta Desktop Session](preview.png)
+
+## Wallpaper
+
+Included in `backgrounds/`:
+
+![Pieta Wallpaper](backgrounds/pieta_background_4k.png)
 
 ## Features
 
 - **Chiaroscuro Marble Palette**: Deep obsidian and charcoal marble backgrounds paired with high-contrast alabaster text (11.13:1 contrast ratio).
 - **Sacred Wound Crimson Accent**: Interactive elements, borders, and notifications feature a focused ruby-crimson glow (`#c82d40`).
 - **Harmonious Stone ANSI Palette**: Terminal and syntax highlighting tuned with cool slates, serpentine greens, antique parchment yellows, and bruised wine tones.
-- **4K Artwork Background**: Includes the stylized *Pietà* wallpaper.
+- **4K Artwork Background**: Includes the stylized 4K *Pietà* wallpaper.
 
 ## Palette Reference
 
