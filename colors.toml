@@ -1,0 +1,45 @@
+# Pieta — Michelangelo's Pietà in marble chiaroscuro
+# Palette drawn directly from the Pietà artwork:
+# Sculpted Carrara marble, shadowed obsidian alcove, and poignant crimson wound accent.
+
+mode = "dark"
+
+# Signal, selection, and muted tones
+accent = "#c82d40"
+selection = "#38252e"
+muted = "#5d6069"
+
+# Dark surface ramp (obsidian and shadowed marble)
+background = "#18191f"
+dark_background = "#121317"
+darker_background = "#0c0d10"
+lighter_background = "#23252c"
+
+# Light text ramp (polished Carrara marble & alabaster)
+foreground = "#cfcdd3"
+dark_foreground = "#737680"
+light_foreground = "#e0ded4"
+bright_foreground = "#edebee"
+
+# Window borders
+hyprland_active_border = "rgba(c82d40ee) rgba(8c8e96ee) 45deg"
+hyprland_inactive_border = "rgba(23252caa)"
+
+# Normal colors
+red = "#c82d40"
+yellow = "#cbb082"
+orange = "#c87656"
+green = "#789785"
+cyan = "#6a97a3"
+blue = "#6884a4"
+magenta = "#a85f7a"
+brown = "#826359"
+
+# Bright colors
+bright_red = "#dc3d50"
+bright_yellow = "#dcbe90"
+bright_green = "#8ea89a"
+bright_cyan = "#84afbb"
+bright_blue = "#809bb8"
+bright_magenta = "#be7691"
+bright_foreground = "#edebee"
