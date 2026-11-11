@@ -22,7 +22,8 @@ light_foreground = "#e0ded4"
 bright_foreground = "#edebee"
 
 # Window borders
-hyprland_active_border = "rgba(c82d40ee) rgba(8c8e96ee) 45deg"
+# hyprland_active_border = "rgba(c82d40ee) rgba(8c8e96ee) 45deg"
+hyprland_active_border = "rgba(c82d40ee)"
 hyprland_inactive_border = "rgba(23252caa)"
 
 # Normal colors
