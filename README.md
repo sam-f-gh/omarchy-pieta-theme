@@ -10,7 +10,7 @@ Polished Carrara marble and obsidian shadows punctuated by a single, poignant cr
 
 Included in `backgrounds/`:
 
-![Pieta Wallpaper](backgrounds/pieta_background_4k.png)
+![Pieta Wallpaper](backgrounds/pieta_background_4k.webp)
 
 ## Features
 
