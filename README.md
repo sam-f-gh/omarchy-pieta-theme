@@ -14,9 +14,9 @@ Included in `backgrounds/`:
 
 ## Features
 
-- **Chiaroscuro Marble Palette**: Deep obsidian and charcoal marble backgrounds paired with high-contrast alabaster text (11.13:1 contrast ratio).
+- **Chiaroscuro Marble Palette**: Deep obsidian and charcoal marble backgrounds paired with high-contrast alabaster text (11.38:1 contrast ratio).
 - **Sacred Wound Crimson Accent**: Interactive elements, borders, and notifications feature a focused ruby-crimson glow (`#c82d40`).
-- **Harmonious Stone ANSI Palette**: Terminal and syntax highlighting tuned with cool slates, serpentine greens, antique parchment yellows, and bruised wine tones.
+- **Monochrome Marble ANSI Palette**: Every terminal and syntax color is a shade of the same cool slate grey as the wallpaper, set at distinct depths so code stays readable. Crimson is the only hue.
 - **4K Artwork Background**: Includes the stylized 4K *Pietà* wallpaper.
 
 ## Palette Reference
@@ -27,12 +27,12 @@ Included in `backgrounds/`:
 | `background` | `#18191f` | Charcoal marble |
 | `dark_background` | `#121317` | Shadowed alcove |
 | `darker_background` | `#0c0d10` | Deepest stone shadow |
-| `lighter_background` | `#23252c` | Elevated marble surface |
-| `selection` | `#38252e` | Dark wine / slate selection |
-| `muted` | `#5d6069` | Slate stone comments |
-| `foreground` | `#cfcdd3` | Polished Carrara marble |
-| `light_foreground` | `#e0ded4` | Antique alabaster |
-| `bright_foreground` | `#edebee` | Pure marble highlight |
+| `lighter_background` | `#25262b` | Elevated marble surface |
+| `selection` | `#3b3d42` | Slate selection |
+| `muted` | `#6a6b71` | Slate stone comments |
+| `foreground` | `#cfd0d4` | Polished Carrara marble |
+| `light_foreground` | `#e0e1e4` | Alabaster |
+| `bright_foreground` | `#eeeff1` | Pure marble highlight |
 
 ## Installation
 

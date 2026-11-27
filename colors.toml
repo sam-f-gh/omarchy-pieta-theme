@@ -1,46 +1,44 @@
 # Pieta — Michelangelo's Pietà in marble chiaroscuro
-# Palette drawn directly from the Pietà artwork:
-# Sculpted Carrara marble, shadowed obsidian alcove, and poignant crimson wound accent.
+# Every tone is a shade of the same cool slate grey sampled from the wallpaper,
+# from obsidian alcove to polished Carrara marble, with one crimson wound accent.
 
 mode = "dark"
 
 # Signal, selection, and muted tones
 accent = "#c82d40"
-selection = "#38252e"
-muted = "#5d6069"
+selection = "#3b3d42"
+muted = "#6a6b71"
 
 # Dark surface ramp (obsidian and shadowed marble)
 background = "#18191f"
 dark_background = "#121317"
 darker_background = "#0c0d10"
-lighter_background = "#23252c"
+lighter_background = "#25262b"
 
-# Light text ramp (polished Carrara marble & alabaster)
-foreground = "#cfcdd3"
-dark_foreground = "#737680"
-light_foreground = "#e0ded4"
-bright_foreground = "#edebee"
+# Light text ramp (polished Carrara marble)
+foreground = "#cfd0d4"
+dark_foreground = "#7c7d82"
+light_foreground = "#e0e1e4"
+bright_foreground = "#eeeff1"
 
 # Window borders
-# hyprland_active_border = "rgba(c82d40ee) rgba(8c8e96ee) 45deg"
 hyprland_active_border = "rgba(c82d40ee)"
-hyprland_inactive_border = "rgba(23252caa)"
+hyprland_inactive_border = "rgba(25262baa)"
 
-# Normal colors
+# Normal colors: crimson, then marble greys at distinct depths
 red = "#c82d40"
-yellow = "#cbb082"
-orange = "#c87656"
-green = "#789785"
-cyan = "#6a97a3"
-blue = "#6884a4"
-magenta = "#a85f7a"
-brown = "#826359"
+yellow = "#b9bac0"
+orange = "#a5a6ac"
+green = "#8f9096"
+cyan = "#c6c7cc"
+blue = "#7f8087"
+magenta = "#9a9ba1"
+brown = "#74757b"
 
 # Bright colors
 bright_red = "#dc3d50"
-bright_yellow = "#dcbe90"
-bright_green = "#8ea89a"
-bright_cyan = "#84afbb"
-bright_blue = "#809bb8"
-bright_magenta = "#be7691"
-bright_foreground = "#edebee"
+bright_yellow = "#cdced3"
+bright_green = "#a7a8ae"
+bright_cyan = "#d8d9dd"
+bright_blue = "#96979d"
+bright_magenta = "#b2b3b8"
